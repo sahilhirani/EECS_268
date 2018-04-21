@@ -1,0 +1,3 @@
+TICKET Kirk
+TICKET Spock
+EJECTION 15
